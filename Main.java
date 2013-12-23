@@ -1,3 +1,9 @@
+/* 
+ * This Main class is the entry of this class. It deals with the whole process which mars rovers explore the plateau.
+ * 
+ * @author Xiao Jin
+ */
+
 import java.io.*;
 import java.util.*;
 
