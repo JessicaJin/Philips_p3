@@ -1,3 +1,9 @@
+/* 
+ * This Rover class contains the properties and activities of rovers.
+ * 
+ * @author Xiao Jin
+ */
+
 public class Rover {
 	private int x,y;  //Rover's original position:x and y coordinates
 	private char z;   //Rover's orientation
@@ -53,7 +59,7 @@ public class Rover {
         return z;
 	}
 	
-//Method£»right turn
+//Methodï¿½ï¿½right turn
 	public char turnR () {		
 		switch(z){
 		case 'N':
